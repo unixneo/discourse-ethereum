@@ -1,5 +1,5 @@
 # name: discourse-ethereum
-# version: 0.1.4.1
+# version: 0.1.4.2
 # author: ProCourse Team
 # url: https://github.com/unixneo/discourse-ethereum.git
 
